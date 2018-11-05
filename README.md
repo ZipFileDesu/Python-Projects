@@ -1,1 +1,2 @@
-# Tasks-on-Neural-networks
+# Python-Projects
+Задания 4 курса 1 семестра
